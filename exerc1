@@ -1,0 +1,15 @@
+x = float(input("digite a nota do aluno 1 : "))
+if x >= 5 :
+   print("o aluno foi aprovado.")
+else :
+   print("o aluno foi reprovado.")
+x = float(input("digite a nota do aluno 2 : "))
+if x >= 5 :
+   print("o aluno foi aprovado.")
+else :
+   print("o aluno foi reprovado.")
+x = float(input("digite a nota do aluno 3 : "))
+if x >= 5 :
+   print("o aluno foi aprovado.")
+else :
+   print("o aluno foi reprovado.")
