@@ -1,0 +1,7 @@
+x = int(input("defina uma quantidade de notas:"))
+media = 0
+for i in range(x):
+    nota = float(input("nota:"))
+    media += nota
+media = media/x
+print(f"media:{media/x:.2f}")
