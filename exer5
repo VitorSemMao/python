@@ -1,0 +1,7 @@
+lista = []
+x = int(input("digite valores: "))
+for x in range(x):
+    y = int(input("digite os números: "))
+    lista.append(y)
+print(y)
+print(lista)
